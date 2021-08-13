@@ -6,4 +6,4 @@ The solution consists of two Jupyter Notebooks:
 - `ISSonDL2021_challenge_densenet.ipynb`, containing the code for the 2nd round. Here, a pre-trained DenseNet model was used;
 
 All the neural networks are implemented with PyTorch and PyTorch Lightning.
-The models were trained running on Google Colab (GPU runtime).
+The models were trained on Google Colab (GPU runtime).
